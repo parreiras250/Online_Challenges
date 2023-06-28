@@ -68,11 +68,10 @@
 #     else: 
 #         return False 
 # Solução do site: 
-#         Challenge 4
 # def only_ints(a, b):
 #     return type(a) == int and type(b) == int
 
-#         Challenge 5
+#         Challenge 6
 # Solução pessoal
 # def double_letters(str):
 #     for index, element in enumerate(str): 
@@ -98,7 +97,7 @@
 # def double_letters(string):
 #     return any([a == b for a, b in zip(string, string[1:])])
 
-#           Challenge 6
+#           Challenge 7
 # Solução pessoal
 # def add_dots(str):
 #     new_name = ''
